@@ -33,11 +33,9 @@ Users should be able to:
 
 ### Links
 
-**To Be Supplemented**
-
-- Solution URL: `________________`
-- Live Site URL: `________________` 
-- Repository: `________________` 
+- Solution URL: **To Be Supplemented** 
+- Live Site URL: [https://berrypie1.github.io/interactive-rating-component/](https://berrypie1.github.io/interactive-rating-component/)
+- Repository: [https://github.com/BerryPie1/interactive-rating-component](https://github.com/BerryPie1/interactive-rating-component) 
 
 ## My process
 
