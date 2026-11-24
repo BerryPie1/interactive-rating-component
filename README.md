@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: **To Be Supplemented** 
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-solution-mryIx2LvD_](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-mryIx2LvD_)
 - Live Site URL: [https://berrypie1.github.io/interactive-rating-component/](https://berrypie1.github.io/interactive-rating-component/)
 - Repository: [https://github.com/BerryPie1/interactive-rating-component](https://github.com/BerryPie1/interactive-rating-component) 
 
@@ -49,20 +49,15 @@ Users should be able to:
 ### What I learned
 
 - I have become more proficient in using HTML, CSS and JavaScript to design and control interactions between elements.
-
-**To Be Supplemented** 
+- Following the feedback received from Frontend Mentor on my first submission, I made some changes to the project, from which I learnt mainly about accessibility.
 
 ### Continued development
 
-- ...
-
-**To Be Supplemented** 
+- As this is an introductory project, I will only make amendments based on feedback from the system; I will not be adding any further development work.
 
 ### Useful resources
 
 - [Google Fonts — Overpass](https://fonts.google.com/specimen/Overpass)
-
-**To Be Supplemented** 
 
 ### AI Collaboration
 
